@@ -1,4 +1,4 @@
-![This is an image](https://raw.githubusercontent.com/n0a/n0a/main/n0a-profile.png)
+![n0a profile](https://raw.githubusercontent.com/n0a/n0a/main/n0a-prof.png)
 
 
 <!--
