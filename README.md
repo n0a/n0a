@@ -2,9 +2,6 @@
 
 ## My repositories 🔥
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=n0a&repo=telegram-get-remote-ip&theme=aura)](https://github-readme-stats.vercel.app/api/pin/?username=n0a&repo=telegram-get-remote-ip&theme=aura)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=n0a&repo=meterpreter-av-bypass&theme=aura)](https://github-readme-stats.vercel.app/api/pin/?username=n0a&repo=meterpreter-av-bypass&theme=aura)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=n0a&repo=wireshark-post-convert&theme=aura)](https://github-readme-stats.vercel.app/api/pin/?username=n0a&repo=wireshark-post-convert&theme=aura)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=n0a&repo=mac-address-changer&theme=aura)](https://github-readme-stats.vercel.app/api/pin/?username=n0a&repo=mac-address-changer&theme=aura)
 <!--
 
 
